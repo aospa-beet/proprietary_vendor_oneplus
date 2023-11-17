@@ -769,7 +769,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus9/proprietary/odm/lib64/camera/arcsoft_dc_calibration_u.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/arcsoft_dc_calibration_u.bin \
     vendor/oneplus/oneplus9/proprietary/odm/lib64/camera/arcsoft_dc_calibration_w.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/arcsoft_dc_calibration_w.bin \
     vendor/oneplus/oneplus9/proprietary/odm/lib64/camera/com.qti.sensor.gc02m1b.lemonade.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensor.gc02m1b.lemonade.so \
-    vendor/oneplus/oneplus9/proprietary/odm/lib64/camera/com.qti.sensor.imx471.lemonade.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensor.imx471.lemonade.so \
+    vendor/oneplus/oneplus9/proprietary/odm/overlay/prj_12/odm/lib64/camera/com.qti.sensor.imx471.lemonade.so:$(TARGET_COPY_OUT_ODM)/overlay/prj_12/odm/lib64/camera/com.qti.sensor.imx471.lemonade.so \
     vendor/oneplus/oneplus9/proprietary/odm/lib64/camera/com.qti.sensor.imx689.lemonade.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensor.imx689.lemonade.so \
     vendor/oneplus/oneplus9/proprietary/odm/lib64/camera/com.qti.sensor.imx766.lemonade.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensor.imx766.lemonade.so \
     vendor/oneplus/oneplus9/proprietary/odm/overlay/prj_11/odm/lib64/camera/com.qti.sensor.imx789.lemonade.so:$(TARGET_COPY_OUT_ODM)/overlay/prj_11/odm/lib64/camera/com.qti.sensor.imx789.lemonade.so \
@@ -779,7 +779,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus9/proprietary/odm/lib64/camera/com.qti.sensormodule.lemonade.sunny_imx766.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.lemonade.sunny_imx766.bin \
     vendor/oneplus/oneplus9/proprietary/odm/lib64/camera/com.qti.sensormodule.lemonade.sunny_imx766_MP.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.lemonade.sunny_imx766_MP.bin \
     vendor/oneplus/oneplus9/proprietary/odm/lib64/camera/com.qti.sensormodule.lemonade.sunny_imx766_ak7375c.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.lemonade.sunny_imx766_ak7375c.bin \
-    vendor/oneplus/oneplus9/proprietary/odm/lib64/camera/com.qti.sensormodule.lemonade.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.lemonade.truly_imx471.bin \
+    vendor/oneplus/oneplus9/proprietary/odm/overlay/prj_12/odm/lib64/camera/com.qti.sensormodule.lemonade.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/overlay/prj_12/odm/lib64/camera/com.qti.sensormodule.lemonade.truly_imx471.bin \
     vendor/oneplus/oneplus9/proprietary/odm/overlay/prj_11/odm/lib64/camera/com.qti.sensormodule.lemonadep.holitech_gc02m1b.bin:$(TARGET_COPY_OUT_ODM)/overlay/prj_11/odm/lib64/camera/com.qti.sensormodule.lemonadep.holitech_gc02m1b.bin \
     vendor/oneplus/oneplus9/proprietary/odm/overlay/prj_11/odm/lib64/camera/com.qti.sensormodule.lemonadep.qtech_ov08a10.bin:$(TARGET_COPY_OUT_ODM)/overlay/prj_11/odm/lib64/camera/com.qti.sensormodule.lemonadep.qtech_ov08a10.bin \
     vendor/oneplus/oneplus9/proprietary/odm/overlay/prj_11/odm/lib64/camera/com.qti.sensormodule.lemonadep.semco_imx789.bin:$(TARGET_COPY_OUT_ODM)/overlay/prj_11/odm/lib64/camera/com.qti.sensormodule.lemonadep.semco_imx789.bin \
@@ -794,7 +794,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus9/proprietary/odm/overlay/prj_11/odm/lib64/camera/com.qti.tuned.semco_imx789.bin:$(TARGET_COPY_OUT_ODM)/overlay/prj_11/odm/lib64/camera/com.qti.tuned.semco_imx789.bin \
     vendor/oneplus/oneplus9/proprietary/odm/lib64/camera/com.qti.tuned.shine_gc02m1b.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.shine_gc02m1b.bin \
     vendor/oneplus/oneplus9/proprietary/odm/lib64/camera/com.qti.tuned.sunny_imx766.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.sunny_imx766.bin \
-    vendor/oneplus/oneplus9/proprietary/odm/lib64/camera/com.qti.tuned.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.truly_imx471.bin \
+    vendor/oneplus/oneplus9/proprietary/odm/overlay/prj_12/odm/lib64/camera/com.qti.tuned.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/overlay/prj_12/odm/lib64/camera/com.qti.tuned.truly_imx471.bin \
     vendor/oneplus/oneplus9/proprietary/odm/lib64/camera/components/com.arcsoft.node.eisv2.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.arcsoft.node.eisv2.so \
     vendor/oneplus/oneplus9/proprietary/odm/lib64/camera/components/com.arcsoft.node.smooth_transition.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.arcsoft.node.smooth_transition.so \
     vendor/oneplus/oneplus9/proprietary/odm/lib64/camera/components/com.oplus.node.preview.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oplus.node.preview.so \

@@ -704,10 +704,7 @@
         To disable/enable audio stream playback
         support during power suspend - 0 or 1
     -->
-    <!-- #ifdef OPLUS_BUG_STABILITY -->
-    <!-- Zhicheng.Luo@MULTIMEDIA.AUDIOSERVER.FRAMEWORK.622855, 2020/11/10, Modify for audio should still playing on TV after screen off -->
-    <AudioStreamInSuspend>1</AudioStreamInSuspend>
-    <!-- #endif OPLUS_BUG_STABILITY -->
+    <AudioStreamInSuspend>0</AudioStreamInSuspend>
 
     <!--
         Compensation delay for audio

@@ -896,7 +896,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/nordce2lite/proprietary/odm/lib64/vendor.oplus.hardware.commondcs-V1-ndk_platform.so:$(TARGET_COPY_OUT_ODM)/lib64/vendor.oplus.hardware.commondcs-V1-ndk_platform.so \
     vendor/oneplus/nordce2lite/proprietary/odm/lib64/vendor.oplus.hardware.olc2-V1-ndk_platform.so:$(TARGET_COPY_OUT_ODM)/lib64/vendor.oplus.hardware.olc2-V1-ndk_platform.so \
     vendor/oneplus/nordce2lite/proprietary/odm/lib64/vendor.oplus.hardware.orms@1.0.so:$(TARGET_COPY_OUT_ODM)/lib64/vendor.oplus.hardware.orms@1.0.so \
-    vendor/oneplus/nordce2lite/proprietary/odm/lib64/vendor.oplus.hardware.osense.client-V1-ndk_platform.so:$(TARGET_COPY_OUT_ODM)/lib64/vendor.oplus.hardware.osense.client-V1-ndk_platform.so \
     vendor/oneplus/nordce2lite/proprietary/odm/lib64/vendor.oplus.hardware.osense.client@1.0.so:$(TARGET_COPY_OUT_ODM)/lib64/vendor.oplus.hardware.osense.client@1.0.so \
     vendor/oneplus/nordce2lite/proprietary/odm/lib64/vendor.oplus.hardware.performance-V1-ndk_platform.so:$(TARGET_COPY_OUT_ODM)/lib64/vendor.oplus.hardware.performance-V1-ndk_platform.so \
     vendor/oneplus/nordce2lite/proprietary/odm/vendor/firmware/goodixfp.b00:$(TARGET_COPY_OUT_ODM)/vendor/firmware/goodixfp.b00 \
@@ -1794,6 +1793,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/nordce2lite/proprietary/vendor/lib64/soundfx/libqcvirt.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libqcvirt.so \
     vendor/oneplus/nordce2lite/proprietary/vendor/lib64/soundfx/libshoebox.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libshoebox.so \
     vendor/oneplus/nordce2lite/proprietary/vendor/lib64/vendor.oplus.hardware.cammidasservice@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.oplus.hardware.cammidasservice@1.0.so \
+    vendor/oneplus/nordce2lite/proprietary/vendor/lib64/vendor.oplus.hardware.osense.client-V1-ndk_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.oplus.hardware.osense.client-V1-ndk_platform.so \
     vendor/oneplus/nordce2lite/proprietary/vendor/lib64/vendor.qti.data.factory@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.data.factory@2.0.so \
     vendor/oneplus/nordce2lite/proprietary/vendor/lib64/vendor.qti.data.factory@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.data.factory@2.1.so \
     vendor/oneplus/nordce2lite/proprietary/vendor/lib64/vendor.qti.data.factory@2.2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.data.factory@2.2.so \

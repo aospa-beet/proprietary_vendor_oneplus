@@ -1,7 +1,7 @@
 {
   "config":{
     "hw_platform": ["MTP", "RCM", "Surf"],
-    "soc_id": ["507", "565", "578"]
+    "soc_id": ["507"]
   },
     "bu52053nvx_0":{
     "owner": "sns_bu52053nvx",

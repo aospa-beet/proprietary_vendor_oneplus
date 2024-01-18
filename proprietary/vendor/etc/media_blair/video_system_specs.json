@@ -17,8 +17,6 @@
             // don't support rotate feature in video core. TODO - Rename as enc_vpss_rotation
             "enc_c2d_rotation": true,
             "platform_disable_ubwc": true,
-            // encoder csc enable
-            "enc_csc_enable": false,
             // It is used to enable fastCV engine for flip support in the absence of VPSS hardware
             // support.
             "enc_vpss_flip": false,
@@ -119,9 +117,7 @@
             ],
             "encoders": [
                 "c2.qti.avc.encoder",
-                "c2.qti.avc.encoder.secure",
                 "c2.qti.hevc.encoder",
-                "c2.qti.hevc.encoder.secure",
                 "c2.qti.hevc.encoder.cq",
                 "c2.qti.heic.encoder"
             ]

@@ -2163,5 +2163,14 @@
   "Type": "Int32",
   "Count": "1",
   "Value": "-15"
+},
+
+{
+  "VendorTag": "com.oplus.video.timestamp.base.types",
+  "Type": "Int32",
+  "Count": "7",
+  "Value": "0, 0, 0, 2, 3, 0, 3",
+  "Comment": "COMMON_REAR, COMMON_FRONT, MOVIE, MOVIE_UW, MOVIE_3HDR, TIME_LAPSE, FAST_VIDEO
+              defined in ./aps_interface/source_code/include/APSCommon.h, index: CameraVideoFeature, value: TimestampBase"
 }
 ]

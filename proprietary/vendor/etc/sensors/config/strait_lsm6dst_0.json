@@ -1,7 +1,7 @@
 {
   "config":{
     "hw_platform": ["MTP", "RCM", "Surf"],
-    "soc_id": ["507"]
+    "soc_id": ["507", "565", "578"]
   },
   "lsm6dst_0":{
     "owner": "lsm6dst",

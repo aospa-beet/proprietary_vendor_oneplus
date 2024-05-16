@@ -2,7 +2,7 @@
   "config":
   {
     "hw_platform": ["MTP", "RCM", "Surf"],
-    "soc_id": ["507"]
+    "soc_id": ["507", "565", "578"]
   },
    "ak0991x_0":{
     "owner": "sns_ak0991x",
